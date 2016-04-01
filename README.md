@@ -1,7 +1,9 @@
 mydogs 
 -----------
 
-A simple lib that makes mysql scalable easy
+A simple lib that makes database scalable easy
+
+Currently only supports mysql
 
 
 ## Components
